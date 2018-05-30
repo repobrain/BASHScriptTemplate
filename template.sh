@@ -19,7 +19,12 @@
 #set -o xtrace
 #
 
+# Initialize input arguments:
+#VAR1=$1
+#VAR2=$2
+#VAR3=$3
 
+# Script start here:
 
 
 
